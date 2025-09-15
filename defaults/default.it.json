@@ -2,5 +2,7 @@
   "FIRST_NAME": "First Name",
   "LAST_NAME": "Last Name",
   "ADDRESS": "Address",
-  "CITY": "City"
+  "CITY": "City",
+  "POSTAL_CODE": "Postal Code",
+  "COUNTRY": "Country"
 }
